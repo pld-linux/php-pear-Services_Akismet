@@ -4,7 +4,7 @@ Summary:	%{_pearname} - PHP client for the Akismet REST API
 Summary(pl.UTF-8):	%{_pearname} - Klient PHP do API REST Akismet
 Name:		php-pear-%{_pearname}
 Version:	1.0.1
-Release:	3
+Release:	4
 License:	MIT
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
